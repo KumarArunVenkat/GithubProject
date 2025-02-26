@@ -6,11 +6,12 @@ public class Test {
 		System.out.println("I am a Manager...");
 	}
 	
+	public static void sayBye () {
+		System.out.println("Bye, this is Developer 2");
+	}
+	
 	public static void sayHi () {
 		System.out.println("Hii, this is Developer 1");
 	}
 	
-	public static void sayBye () {
-		System.out.println("Bye, this is Developer 2");
-	}
 }
